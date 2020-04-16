@@ -7,6 +7,7 @@
   <modules>
   	<module>Recursion</module>
   	<module>Graphs</module>
+  	<module>Arrays</module>
   </modules>
   
   <dependencies>
