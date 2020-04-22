@@ -8,9 +8,22 @@
   	<module>Recursion</module>
   	<module>Graphs</module>
   	<module>Arrays</module>
+  	<module>DynamicProgramming</module>
   </modules>
   
   <dependencies>
+  	<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+			<version>2.2.6.RELEASE</version>
+			<exclusions>
+				<exclusion>
+					<groupId>org.junit.vintage</groupId>
+					<artifactId>junit-vintage-engine</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
   	<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
