@@ -3,3 +3,4 @@
 3)Added Three Number Sum and its appropriate test cases
 4)Added Four number sum and its appropriate test cases
 5)Added Smallest difference and its appropriate test cases
+6)Added Move Element to End and its appropriate test cases
