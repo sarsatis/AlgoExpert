@@ -5,3 +5,4 @@
 5)Added Smallest difference and its appropriate test cases
 6)Added Move Element to End and its appropriate test cases
 7)Added Monotonic array and its appropriate test cases
+7)Added Spiral array and its appropriate test cases
