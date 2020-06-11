@@ -6,3 +6,4 @@
 6)Added Move Element to End and its appropriate test cases
 7)Added Monotonic array and its appropriate test cases
 7)Added Spiral array and its appropriate test cases
+8)Added Longest peak and its appropriate test cases
