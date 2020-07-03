@@ -7,3 +7,4 @@
 7)Added Monotonic array and its appropriate test cases
 7)Added Spiral array and its appropriate test cases
 8)Added Longest peak and its appropriate test cases
+9)Added Min Rewards and its appropriate test cases
