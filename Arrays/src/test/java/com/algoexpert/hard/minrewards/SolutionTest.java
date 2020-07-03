@@ -8,37 +8,37 @@ public class SolutionTest {
 
     @Test
     public void TestCase1() {
-        assertThat(Solution3.minRewards(new int[]{8, 4, 2, 1, 3, 6, 7, 9, 5})).isEqualTo(25);
+        assertThat(Solution1.minRewards(new int[]{8, 4, 2, 1, 3, 6, 7, 9, 5})).isEqualTo(25);
     }
 
     @Test
     public void TestCase2() {
-        assertThat(Solution3.minRewards(new int[]{1})).isEqualTo(1);
+        assertThat(Solution1.minRewards(new int[]{1})).isEqualTo(1);
     }
 
     @Test
     public void TestCase3() {
-        assertThat(Solution3.minRewards(new int[]{3, 5})).isEqualTo(3);
+        assertThat(Solution1.minRewards(new int[]{3, 5})).isEqualTo(3);
     }
 
     @Test
     public void TestCase4() {
-        assertThat(Solution3.minRewards(new int[]{4, 2, 1, 3})).isEqualTo(8);
+        assertThat(Solution1.minRewards(new int[]{4, 2, 1, 3})).isEqualTo(8);
     }
 
     @Test
     public void TestCase5() {
-        assertThat(Solution3.minRewards(new int[]{2, 20, 13, 12, 11, 8, 4, 3, 1, 5, 6, 7, 9, 0})).isEqualTo(52);
+        assertThat(Solution1.minRewards(new int[]{2, 20, 13, 12, 11, 8, 4, 3, 1, 5, 6, 7, 9, 0})).isEqualTo(52);
     }
 
     @Test
     public void TestCase6() {
-        assertThat(Solution3.minRewards(new int[]{2, 1, 4, 3, 6, 5, 8, 7, 10, 9})).isEqualTo(15);
+        assertThat(Solution1.minRewards(new int[]{2, 1, 4, 3, 6, 5, 8, 7, 10, 9})).isEqualTo(15);
     }
 
     @Test
     public void TestCase7() {
-        assertThat(Solution3.minRewards(new int[]{800,
+        assertThat(Solution1.minRewards(new int[]{800,
                 400,
                 20,
                 10,

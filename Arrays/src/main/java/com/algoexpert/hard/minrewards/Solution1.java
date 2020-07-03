@@ -10,7 +10,7 @@ public class Solution1 {
         Arrays.fill(rewards, 1);
 
         //Iterating through the array
-        for (int i = 1; i < scores.length - 1; i++) {
+        for (int i = 1; i < scores.length; i++) {
             int j = i - 1;
             //if current element is greater than previous element then increment rewards array
             if (scores[i] > scores[j]) {
